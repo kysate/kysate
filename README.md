@@ -1,4 +1,5 @@
 - Hi, I am kysate.
 - I am a computer science student, in my spare time I try to increase my programming skills.
-- Currently I am learning: HTML5, CSS3, Javascript, Node and React.
-- But I also have knowledge of these languages: C++, Java and little of Python
+- What I learned: HTML5, CSS3, JS, PHP.
+- Currently I am learning: Node, React & Python.
+- I also have little knowledge of these languages: C++, Java
