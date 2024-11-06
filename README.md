@@ -13,15 +13,6 @@
 
 ###
 
-<div align="center">
-
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-
-</div>
-
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -69,5 +60,8 @@
 ###
 
 <div align="center">
+
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kysate.kysate&"  />
+
 </div>
