@@ -1,7 +1,7 @@
 I'm kysate.
 
-- 🔭 I have knowledge of these languages: C++, Java, PHP, Python.
-- 🌱 I’m currently learning C#.
+- 🔭 I have knowledge of these languages: Python & C++.
+- 🌱 I’m currently learning C# & Unity Game Engine.
 - 📫 Discord: kysate
 
 <div align="center">
