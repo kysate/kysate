@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kysate.kysate&"  />
-</div>
-
 ###
 
 <h1 align="center">A passionate linux user</h1>
@@ -13,6 +9,16 @@
 ###
 
 <p align="left">I'm kysate<br><br>- 📚 I’m currently learning C#</p>
+<p align="left">- 📫 Discord: kysate</p>
+
+###
+
+<div align="center">
+
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
+
+</div>
+
 
 ###
 
@@ -61,3 +67,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kysate.kysate&"  />
+</div>
